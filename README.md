@@ -1,4 +1,4 @@
-##Merhaba!!
+Merhaba!!
 Şuan python öğrenmeye çalışan bir yazılım mühenisi öğrencisiyim. 
 <!--
 **ThezMArda/ThezMArda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
